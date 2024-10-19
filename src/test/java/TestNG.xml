@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SmokeTest">
+    <test name="RegisterUserTest">
+        <classes>
+            <class name="RegisterUserTest"></class>
+        </classes>
+    </test>
+    <test name="InvalidLoginTest">
+        <classes>
+            <class name="InvalidLoginTest"></class>
+        </classes>
+    </test>
+    <test name="ValidLoginTest">
+        <classes>
+            <class name="ValidLoginTest"></class>
+        </classes>
+    </test>
+    <test name="SearchProductTest">
+        <classes>
+            <class name="SearchProductTest"></class>
+        </classes>
+    </test>
+    <test name="AddProductsToCartTest">
+        <classes>
+            <class name="AddProductsToCartTest"></class>
+        </classes>
+    </test>
+</suite>
