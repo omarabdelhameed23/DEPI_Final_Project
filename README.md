@@ -25,10 +25,13 @@ To set up and run this project, follow these steps:
    git clone https://github.com/omarabdelhameed23/DEPI_Final_Project.git
    cd DEPI_Final_Project
   mvn install
+```
+
 ## Running the Tests
 To run the tests, use the following command:
 ```bash
 mvn test
+```
 
 ## Project Structure
 The project structure is as follows:
@@ -42,6 +45,7 @@ DEPI_Final_Project/
 ├── test-output/
 ├── .gitignore
 ├── pom.xml
+
 .idea/: Contains project-specific settings and configurations.
 
 src/: Contains the source code and test scripts.
