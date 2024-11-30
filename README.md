@@ -9,7 +9,6 @@ This project aims to automate the testing of Automation Exercise (https://automa
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Tests](#running-the-tests)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,33 +32,6 @@ To run the tests, use the following command:
 ```bash
 mvn test
 ```
-
-## Project Structure
-The project structure is as follows:
-DEPI_Final_Project/
-├── .idea/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   └── test/
-│       └── java/
-├── test-output/
-├── .gitignore
-├── pom.xml
-
-.idea/: Contains project-specific settings and configurations.
-
-src/: Contains the source code and test scripts.
-
-main/: Contains the main application code.
-
-test/: Contains the test scripts.
-
-test-output/: Contains the test results and reports.
-
-.gitignore: Specifies files and directories to be ignored by Git.
-
-pom.xml: The Maven project file that manages dependencies and build configurations.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
