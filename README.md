@@ -2,7 +2,7 @@
 DEPI Final Project
 
 ## Project Description
-This project aims to automate the testing of a web application using Selenium WebDriver. The tests are written in Java and are designed to ensure the functionality and reliability of the application.
+This project aims to automate the testing of Automation Exercise (https://automationexercise.com/) a web application using Selenium WebDriver. The tests are written in Java and are designed to ensure the functionality and reliability of the application.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -17,6 +17,7 @@ This project aims to automate the testing of a web application using Selenium We
 - Java: The programming language used for writing the test scripts.
 - Selenium WebDriver: The tool used for automating web application testing.
 - TestNG: The testing framework used for running and managing the tests.
+- Page Object Model (POM): It's an object-oriented class which acts as an interface for the page of our Application under test. Page class contains web elements and methods to interact with web elements. While Automating the test cases, we create the object of these Page Classes and interact with web elements by calling the methods of these classes.
 
 ## Setup and Installation
 To set up and run this project, follow these steps:
@@ -50,7 +51,7 @@ DEPI_Final_Project/
 
 src/: Contains the source code and test scripts.
 
-main/: Contains the main application code (if any).
+main/: Contains the main application code.
 
 test/: Contains the test scripts.
 
