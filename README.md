@@ -2,7 +2,7 @@
 DEPI Final Project
 
 ## Project Description
-This project aims to automate the testing of Automation Exercise (https://automationexercise.com/) a web application using Selenium WebDriver. The tests are written in Java and are designed to ensure the functionality and reliability of the application.
+This project aims to automate the testing of Automation Exercise (https://automationexercise.com/) a web application using Selenium WebDriver. The tests are written in Java and are designed to ensure the functionality and reliability of the application. (https://drive.google.com/file/d/1tTl1xkGL9St440fs7VzbOPT-P093ZZSd/view?usp=sharing)
 
 ## Table of Contents
 - [Project Description](#project-description)
